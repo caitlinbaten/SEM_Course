@@ -1,0 +1,149 @@
+region,city,population,w1,w2,w3,w4,w5,w6,w7
+London,Hillingdon,3,28,13,11,7,5,8,9
+London,Harrow,3,70,30,14,4,8,10,1
+London,Ealing,3,62,48,28,7,11,9,5
+London,Hounslow,3,49,16,15,5,4,23,5
+London,Brent,3,50,30,31,16,9,7,9
+London,Hammersmith and Fulham,2,29,7,11,7,7,1,5
+London,Richmond upon Thames,2,25,13,4,2,3,5,1
+London,Kingston upon Thames,2,35,19,15,7,5,5,1
+London,Barnet,4,48,24,15,9,12,5,6
+London,Camden,3,22,11,16,9,2,1,6
+London,Westminster,3,40,7,5,6,8,9,8
+London,Kensington and Chelsea,2,15,6,6,7,4,3,4
+London,Wandsworth,3,35,18,21,5,5,1,1
+London,Merton,2,20,7,11,8,1,4,2
+London,Sutton,2,40,18,2,13,15,5,8
+London,Enfield,3,21,8,20,4,5,2,3
+London,Haringey,3,18,10,18,3,2,2,2
+London,Islington,2,19,15,10,7,1,2,3
+London,Hackney and City of London,3,18,5,18,3,10,3,0
+London,Tower Hamlets,3,12,10,9,4,3,5,6
+London,Southwark,3,43,20,12,7,6,4,2
+London,Lambeth,3,34,12,18,14,4,3,3
+London,Croydon,4,67,25,20,11,11,5,3
+London,Waltham Forest,3,19,10,6,7,4,3,4
+London,Lewisham,3,31,15,14,6,6,7,1
+London,Redbridge,3,38,29,15,2,4,5,4
+London,Newham,4,28,7,14,4,2,3,5
+London,Greenwich,3,31,19,11,11,3,5,4
+London,Bromley,3,97,77,48,6,9,4,3
+London,Barking and Dagenham,2,16,12,13,4,1,2,3
+London,Bexley,2,48,19,22,14,12,4,5
+London,Havering,3,38,10,17,11,4,7,4
+South East,Kent,16,694,308,338,240,186,201,110
+South East,Medway,3,55,50,22,16,7,11,4
+South East,East Sussex,6,66,9,19,34,21,8,33
+South East,West Sussex,9,98,45,12,39,14,14,18
+South East,Surrey,12,161,72,69,58,22,18,36
+South East,Buckinghamshire,5,61,36,55,29,19,15,16
+South East,Oxfordshire,7,136,191,125,57,26,14,18
+South East,West Berkshire,2,27,9,16,9,3,2,2
+South East,Slough,1,46,12,9,3,1,5,4
+South East,Windsor and Maidenhead,2,19,7,3,12,6,4,4
+South East,Bracknell Forest,1,16,7,7,13,3,2,4
+South East,Wokingham,2,40,18,16,4,6,3,5
+South East,Reading,2,55,22,21,12,4,4,3
+South East,Brighton and Hove,3,26,6,8,21,24,17,9
+South East,Portsmouth,2,22,4,3,4,2,4,0
+South East,Hampshire,14,198,142,120,74,33,24,9
+South East,Southampton,3,49,38,13,11,13,8,6
+South East,Isle of Wight,1,30,14,19,13,2,1,1
+South West,Gloucestershire,6,101,22,21,12,6,2,4
+South West,Cornwall and Isles of Scilly,6,36,24,13,6,4,9,5
+South West,Devon,8,66,23,18,3,11,2,4
+South West,Plymouth,3,42,12,13,4,4,5,1
+South West,Torbay,1,7,12,0,0,1,1,1
+South West,Somerset,6,65,49,49,32,94,8,3
+South West,North Somerset,2,53,48,57,49,30,11,3
+South West,"Bristol, City of",5,49,25,10,9,8,6,7
+South West,South Gloucestershire,3,27,24,4,2,4,1,0
+South West,Bath and North East Somerset,2,9,6,4,2,4,1,0
+South West,Swindon,2,30,30,20,4,8,2,5
+South West,Wiltshire,5,45,21,21,7,12,3,1
+South West,"Bournemouth, Christchurch and Poole",4,38,17,11,8,2,4,3
+South West,Dorset,4,35,7,8,4,3,0,3
+East of England,Cambridgeshire,7,129,146,78,51,69,11,6
+East of England,Peterborough,2,48,69,26,33,15,5,18
+East of England,Norfolk,9,311,148,117,57,46,19,18
+East of England,Suffolk,8,189,112,58,81,48,11,1
+East of England,Essex,15,273,205,115,104,38,32,68
+East of England,Southend-on-Sea,2,23,29,15,39,3,6,33
+East of England,Thurrock,2,19,12,15,14,3,14,17
+East of England,Central Bedfordshire,3,46,30,41,26,31,26,32
+East of England,Bedford,2,51,55,58,45,37,31,56
+East of England,Luton,2,38,4,41,46,28,24,12
+East of England,Milton Keynes,3,38,13,6,2,0,3,0
+East of England,Hertfordshire,12,217,205,123,60,41,23,27
+Midlands,Staffordshire,9,204,107,114,85,40,34,42
+Midlands,Shropshire,3,87,95,89,35,2,22,28
+Midlands,Derby,3,29,28,23,18,5,13,24
+Midlands,Derbyshire,8,129,126,98,69,28,31,33
+Midlands,Stoke-on-Trent,3,117,75,60,41,42,17,23
+Midlands,Lincolnshire,8,74,107,61,26,18,13,7
+Midlands,North Lincolnshire,2,64,58,30,8,6,4,2
+Midlands,North East Lincolnshire,2,4,7,5,3,4,5,3
+Midlands,Nottingham,3,45,22,10,9,8,7,6
+Midlands,Nottinghamshire,8,85,75,85,39,35,21,14
+Midlands,Leicester,4,66,66,52,36,34,38,40
+Midlands,Leicestershire,7,89,103,105,66,41,20,35
+Midlands,Birmingham,11,216,172,141,119,,48,29
+Midlands,Solihull,2,38,36,15,14,,5,5
+Midlands,Sandwell,3,76,67,124,71,,21,13
+Midlands,Dudley,3,113,24,45,12,,6,7
+Midlands,Walsall,3,87,36,37,16,,8,4
+Midlands,Wolverhampton,3,104,42,27,33,,26,13
+Midlands,Telford and Wrekin,2,43,30,22,9,0,4,5
+Midlands,Coventry,4,71,47,19,11,14,4,13
+Midlands,"Herefordshire, County of",2,46,65,22,5,10,11,2
+Midlands,Warwickshire,6,122,68,63,36,45,33,47
+Midlands,Worcestershire,6,85,82,50,30,25,12,16
+Midlands,Northamptonshire,7,73,134,130,101,82,50,43
+North West,Cumbria,5,174,67,39,36,33,14,16
+North East and Yorkshire,Newcastle upon Tyne,3,83,30,22,16,16,7,7
+North East and Yorkshire,Sunderland,3,112,62,27,12,5,4,0
+North East and Yorkshire,Gateshead,2,110,33,12,14,5,5,0
+North East and Yorkshire,North Tyneside,2,40,30,22,5,57,8,9
+North East and Yorkshire,South Tyneside,2,78,48,35,15,5,3,2
+North East and Yorkshire,North Yorkshire,6,205,94,34,31,21,13,15
+North East and Yorkshire,Middlesbrough,1,61,17,24,20,4,9,5
+North East and Yorkshire,East Riding of Yorkshire,3,134,68,84,29,27,19,16
+North East and Yorkshire,"Kingston upon Hull, City of",3,129,62,51,41,25,22,20
+North East and Yorkshire,Redcar and Cleveland,1,39,25,20,18,8,2,0
+North East and Yorkshire,Northumberland,3,71,58,17,12,96,14,18
+North East and Yorkshire,County Durham,5,239,148,104,96,34,12,13
+North East and Yorkshire,Hartlepool,1,38,65,25,7,11,9,4
+North East and Yorkshire,Darlington,1,42,27,12,20,11,8,5
+North East and Yorkshire,Stockton-on-Tees,2,78,71,52,34,21,15,10
+North East and Yorkshire,York,2,98,50,17,9,6,0,0
+North East and Yorkshire,Sheffield,6,195,116,61,28,35,33,48
+North East and Yorkshire,Doncaster,3,116,55,89,46,75,49,13
+North East and Yorkshire,Rotherham,3,87,50,57,60,38,22,28
+North East and Yorkshire,Barnsley,2,110,64,88,58,32,27,27
+North East and Yorkshire,Wakefield,3,79,68,53,21,19,19,4
+North East and Yorkshire,Leeds,8,184,118,67,60,24,27,16
+North East and Yorkshire,Bradford,5,200,112,74,60,41,27,35
+North East and Yorkshire,Calderdale,2,29,9,9,5,3,3,3
+North East and Yorkshire,Kirklees,4,82,33,32,39,15,16,15
+North West,Lancashire,12,320,206,150,136,100,75,55
+North West,Blackpool,1,48,42,32,63,24,17,6
+North West,Manchester,5,187,116,107,63,47,36,55
+North West,Wigan,3,253,157,53,69,11,13,5
+North West,Bolton,3,112,54,57,27,19,7,9
+North West,Blackburn with Darwen,1,40,30,21,10,6,1,6
+North West,Bury,2,149,23,56,38,25,21,14
+North West,Trafford,2,77,57,58,31,22,13,22
+North West,Salford,3,243,28,25,22,12,18,12
+North West,Rochdale,2,184,48,64,25,45,24,27
+North West,Oldham,2,281,82,44,39,27,26,22
+North West,Tameside,2,75,62,68,57,46,38,47
+North West,Stockport,3,122,60,34,15,7,10,10
+North West,Cheshire East,4,111,91,85,65,34,32,42
+North West,Cheshire West and Chester,3,97,77,87,56,52,29,27
+North West,Liverpool,5,100,23,50,38,21,24,13
+North West,Halton,1,24,16,27,11,12,0,6
+North West,Sefton,3,53,30,25,18,14,17,12
+North West,Knowsley,1,76,32,9,19,6,,4
+North West,St. Helens,2,42,29,27,8,1,9,0
+North West,Warrington,2,61,39,42,17,18,9,12
+North West,Wirral,3,91,70,60,48,39,21,23
